@@ -9,7 +9,7 @@ First, only Green LED lights up for 2 seconds, and then only Red LED lights up f
 Only ORANGE LED is blinking (1 second ON, 1 second OFF, …).  
 
 ## main function
-The main program code is in lab_1/Core/Src/main.c.  
+The main program code is in [lab_1/Core/Src/main.c](https://github.com/CCChen19990820/Embedded-System-FreeRTOS-Development/blob/main/lab_1/Core/Src/main.c).  
 Using two tasks for LED control and button control respectively.  
 The queue implementation receives messages and triggers transitions.  
 
