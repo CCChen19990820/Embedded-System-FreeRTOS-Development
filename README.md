@@ -4,8 +4,8 @@ This is my embedded system course work, with a total of five lab implementations
 ## Development environment
 ```bash
 Development version sub-model: STM32F407G-DISC1
-Development IDE: STM32CubeIDE 
-Development OS: FreeRTOS
+Development IDE: [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) 
+Development OS: [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS/tree/V10.2.1)
 Development Language: C
 ```
 
