@@ -15,3 +15,13 @@ The queue implementation receives messages and triggers transitions.
 
 ## Demo video
 https://user-images.githubusercontent.com/48405514/224000585-fed0cc8b-83c4-4591-9b81-ad8049d7540d.mp4
+
+## Implement flow
+
+### step1 
+因為是透過FreeRTOS來實做所以要先在main.c
+```
+#include "FreeRTOS.h"
+#include "task.h"
+```
+
