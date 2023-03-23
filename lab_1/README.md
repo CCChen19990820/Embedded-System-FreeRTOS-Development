@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/48405514/224000585-fed0cc8b-83c4-4591-
 #include "task.h"
 ```
 
-### step2 
+### step2
 Bounce 是指我們在按下電源開關時，電壓不會從 0 伏直接升到 VDD 伏。而是在 0 及 VDD 間震盪好幾次，最後才在 VDD 端穩定下來。因此須讓擷取時間延後大於Bounce Time。
 ```
 void ButtonTask_App(void)
