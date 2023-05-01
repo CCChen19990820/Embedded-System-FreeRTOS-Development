@@ -8,3 +8,12 @@
   ○Traverse ReadyTaskList, DelayedTaskList, OverflowDelayedTaskList  
   ○Print TCB information by UART  
   ○Task Name、Priority(Base/actual)、Stack Pointer、Topofstack Pointer、Task State  
+
+## Implement flow
+
+### HackMD  
+[https://hackmd.io/@E_5q7LQISpuM2vSkcJM0OQ/rkeGFqKgh
+](https://hackmd.io/@E_5q7LQISpuM2vSkcJM0OQ/SymJJoFgn)
+
+## Demo video
+https://user-images.githubusercontent.com/48405514/224000585-fed0cc8b-83c4-4591-9b81-ad8049d7540d.mp4
