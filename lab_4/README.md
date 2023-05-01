@@ -21,9 +21,9 @@ PrintTask will call vPrintFreeList function to show free list information.
 ### HackMD  
 [https://hackmd.io/@E_5q7LQISpuM2vSkcJM0OQ/BJTxaQTm2]!(https://hackmd.io/@E_5q7LQISpuM2vSkcJM0OQ/BJTxaQTm2)
 ## Demo image
-step1:  
+### step1:  
 ![image](https://user-images.githubusercontent.com/48405514/235456994-47aa621e-f8bf-4152-a5d9-3684f9544c0d.png)
 
-step2:  
+### step2:  
 ![image](https://user-images.githubusercontent.com/48405514/235457024-a5aa0982-3a0b-444d-83dc-4570df6632ec.png)
 
