@@ -15,6 +15,5 @@
 [https://hackmd.io/@E_5q7LQISpuM2vSkcJM0OQ/rkeGFqKgh
 ](https://hackmd.io/@E_5q7LQISpuM2vSkcJM0OQ/SymJJoFgn)
 
-## Demo video
-https://user-images.githubusercontent.com/48405514/235455773-8615a2bd-f633-4136-8d21-2646d36794df.mp4
-
+## Demo image
+![image](https://user-images.githubusercontent.com/48405514/235456342-10da450d-f84f-4ff4-b04d-cb8919e308b1.png)
