@@ -1,4 +1,4 @@
-# lab2-CCChen19990820
+# Task Monitor Print by UART
 
 ● 走訪 pxReadyTasksLists、pxDelayedTaskList、pxOverflowDelayedTaskList，並且透過 uart4 印出所有 task control block 的資訊。  
 ● Create four task  
