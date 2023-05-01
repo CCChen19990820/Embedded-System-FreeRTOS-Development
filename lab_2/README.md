@@ -16,4 +16,5 @@
 ](https://hackmd.io/@E_5q7LQISpuM2vSkcJM0OQ/SymJJoFgn)
 
 ## Demo video
-https://user-images.githubusercontent.com/48405514/224000585-fed0cc8b-83c4-4591-9b81-ad8049d7540d.mp4
+https://user-images.githubusercontent.com/48405514/235455773-8615a2bd-f633-4136-8d21-2646d36794df.mp4
+
