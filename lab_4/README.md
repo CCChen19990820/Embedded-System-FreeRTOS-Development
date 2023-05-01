@@ -1,4 +1,4 @@
-# Heap free Memory block insert and merge
+# Heap Free Memory Block Insert and Merge
 
 ● Step1:  
 Use Uart to show Free linked list.  
