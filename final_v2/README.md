@@ -3,7 +3,7 @@
 ● Motivation and Objective:   
  Use real-time operating system-like skills to realize embedded objects around life.  
  Utilizing STM32 Board with LCD Display to Implement Desktop Clock Functionality.  
-1. LCD screen can display the current time, date, temperature.  
+1.LCD screen can display the current time, date, temperature.  
 2.On the hour, the buzzer will sound a short tone to announce the time.  
 3.There will be a wake-up alarm clock at specific time, and the buzzer will make a long sound. You need to press the button to turn off the alarm clock.  
 
