@@ -1,6 +1,6 @@
 # Desktop Clock
 
-● Motivation and Objective: 
+● Motivation and Objective:   
  Use real-time operating system-like skills to realize embedded objects around life.
  Utilizing STM32 Board with LCD Display to Implement Desktop Clock Functionality.
 
